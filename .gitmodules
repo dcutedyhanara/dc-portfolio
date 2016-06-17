@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/sage"]
+	path = wp-content/themes/sage
+	url = https://github.com/dcutedyhanara/sage.git
